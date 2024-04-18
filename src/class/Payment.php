@@ -1,6 +1,6 @@
 <?php
 
-namespace app\class;
+namespace src\class;
 
 interface PaymentInterface {
   public function pay();

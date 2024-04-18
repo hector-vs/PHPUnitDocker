@@ -1,6 +1,6 @@
 <?php
 
-use app\class\objectMaker;
+use src\class\objectMaker;
 
 require '../../vendor/autoload.php';
 
